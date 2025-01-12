@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DataStore Compose</string>
+    <string name="datastore_compose_sample">DataStore Compose Sample</string>
 </resources>
